@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mattylll.github.io/wy-property-market-report-2026/sitemap.xml
+Sitemap: https://mattylll.github.io/west-yorkshire-property-market-report-2026/sitemap.xml
